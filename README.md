@@ -162,8 +162,8 @@ Estimasi_COVID19_Indonesia_CRISPDM_Penjelasan.ipynb
 | Resource                 | Link                                          |
 | ------------------------ | --------------------------------------------- |
 | Repository GitHub        | https://github.com/alengskyyy-source/kdwm_uas |
-| Video Presentasi YouTube | Isi Link YouTube Anda                         |
-| portofolio             | https://alengskyyy-source.github.io/data-scients-portofolio/ |
+| Video Presentasi YouTube | https://youtube.com/@adisetyawan8187?si=o_dMTL96egVe9mU3                       |
+| portofolio             | https://sites.google.com/view/portofoliodatamining/beranda|
 | GitHub Profile           | https://github.com/alengskyyy-source          |
 
 ---
